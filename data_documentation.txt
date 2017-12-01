@@ -1,0 +1,5 @@
+Raw dataset:
+-1997 Bathymetry data for Upper Mississipi/Reach 2/Pool 26
+-Data source: https://www.umesc.usgs.gov/rivers/upper_mississippi/reach_2/pool_26/p26_gis_data.html#bath
+-Download Link: https://www.umesc.usgs.gov/data_library/gis_data/umrs_floodplain/pool_26/bath_pool_26.tar.gz
+-Meta: https://www.umesc.usgs.gov/data_library/umesc_metadata/aqua_bath_nav/umesc_umrs_bathymetry.html
